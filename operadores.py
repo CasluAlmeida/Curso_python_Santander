@@ -50,5 +50,3 @@ b = 3
 resultado_and = (a > 5) and (b < 5)   # True
 resultado_or = (a > 15) or (b < 5)   # True
 resultado_not = not (a > 5)   # False
-
-git reset --hard <19f3d298996f5536a14a3aa8c6c9e7a4eba48c41>

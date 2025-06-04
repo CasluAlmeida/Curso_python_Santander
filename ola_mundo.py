@@ -27,3 +27,9 @@ tipo = type(a)
 
 print(tipo)
 print(f'O resultado é {resultado}')
+
+
+def soma(a, b):
+    return a + b
+
+print(soma(10, 40))
